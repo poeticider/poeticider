@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poeticider
-- 👀 My ambition is to become a software engineer!! Programming is the future!
+- 👀 Aspiring web developer!! Programming is the future!
 - 🌱 I’m currently learning brushing up on javaScript. I want to practice more React/Ruby on Rails!
 - 💞️ Studying full-time through hyperionDev. 
 - 📫 How to reach me ... https://www.linkedin.com/in/daniel-riley-a20389196/
